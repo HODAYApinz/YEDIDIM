@@ -1,0 +1,7 @@
+T:\Group B\NetCore\הדסה אלישיוב\Yedidim\Yedidim\obj\Debug\net8.0\Yedidim.csproj.AssemblyReference.cache
+T:\Group B\NetCore\הדסה אלישיוב\Yedidim\Yedidim\obj\Debug\net8.0\Yedidim.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\הדסה אלישיוב\Yedidim\Yedidim\obj\Debug\net8.0\Yedidim.AssemblyInfoInputs.cache
+T:\Group B\NetCore\הדסה אלישיוב\Yedidim\Yedidim\obj\Debug\net8.0\Yedidim.AssemblyInfo.cs
+T:\Group B\NetCore\הדסה אלישיוב\Yedidim\Yedidim\obj\Debug\net8.0\Yedidim.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\הדסה אלישיוב\Yedidim\Yedidim\obj\Debug\net8.0\Yedidim.MvcApplicationPartsAssemblyInfo.cs
+T:\Group B\NetCore\הדסה אלישיוב\Yedidim\Yedidim\obj\Debug\net8.0\Yedidim.MvcApplicationPartsAssemblyInfo.cache

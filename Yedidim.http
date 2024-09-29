@@ -1,0 +1,6 @@
+@Yedidim_HostAddress = http://localhost:5231
+
+GET {{Yedidim_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
